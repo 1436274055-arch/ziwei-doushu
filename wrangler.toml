@@ -1,0 +1,8 @@
+﻿name = "ziwei-doushu"
+compatibility_date = "2025-01-01"
+pages_build_output_dir = ".vercel/output/static"
+
+[vars]
+AI_PROVIDER = "deepseek"
+DEEPSEEK_API_KEY = "sk-80f611335ef54e48bb1f129d9bf48859"
+NEXT_PUBLIC_SITE_URL = "https://ziwei-doushu.pages.dev"
